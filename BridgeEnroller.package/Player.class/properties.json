@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "BridgeEnroller",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"lastName",
+		"firstName",
+		"club"
+	],
+	"name" : "Player",
+	"type" : "normal"
+}

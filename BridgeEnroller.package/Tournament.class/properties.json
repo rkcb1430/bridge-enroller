@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "BridgeEnroller",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Database"
+	],
+	"instvars" : [
+		"name",
+		"venue",
+		"fee",
+		"startTime",
+		"enrollmentEndTime",
+		"participants"
+	],
+	"name" : "Tournament",
+	"type" : "normal"
+}
